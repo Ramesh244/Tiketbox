@@ -1,0 +1,42 @@
+ .container{
+    /* background-image: url("../Images/Background-Inage.png");  */
+    background-repeat: none;
+    /* background-color: rgb(248, 246, 243); */
+    background-size: auto;
+    margin-top: 60px;
+    border-radius: 25px;
+}
+.heading{
+  top:10px
+}
+.ddd{
+  background-color: rgb(253, 244, 244);
+  border-radius: 15px;
+  justify-items: center;
+  align-items: center;
+  left: 100px;
+  right: 100px;
+  /* margin-left: 1rem; */
+  /* margin-right: 0rem; */
+
+}
+.card1{
+  top: 15px;
+    width: 100%;
+    left:25px;
+    height: 650px;
+    border: 1px solid;
+    /* background: #eeebeb 0% 0% no-repeat padding-box; */
+    border: 1px solid #1e1d1d;
+    border-radius: 28px;
+    opacity: 1;
+}
+.back_button{
+  margin-left: 13rem;
+  margin-top: -2.4rem;
+}
+#abc{
+  
+  margin-left: 40rem;
+  margin-top: 10px;
+}

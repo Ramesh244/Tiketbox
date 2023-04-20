@@ -1,0 +1,53 @@
+/* .navbar{
+  background-color: #a58973; 
+  
+} */
+
+
+/* .color_btn{
+  color: azure;
+} */
+.button {
+  border-radius: 25px;
+  border: 1px solid #EFAF4E;
+  height: 50px;
+  width: 100px;
+  color: #EFAF4E;
+}
+
+#ddb {
+  top:8px;
+  position: relative;
+  border-radius: 25px;
+  border: 1px solid #EFAF4E;
+  height: 50px;
+  width: 100px;
+  color: #EFAF4E;
+ background-color: white;
+
+}
+/* .drop1{
+  background-color: white;
+  border-radius: 15px;
+  border: 1px solid #EFAF4E;
+} */
+
+/* .big{
+    position: relative;
+    margin: 0;
+    width:100%;
+    height: 100%;
+}  */
+
+
+
+
+/* body {
+
+    overflow-y: hidden;
+    
+     /* Hide vertical scrollbar */
+/* Hide horizontal scrollbar */
+/* overflow-x: hidden; 
+    height: 80vh; */
+/* } */
